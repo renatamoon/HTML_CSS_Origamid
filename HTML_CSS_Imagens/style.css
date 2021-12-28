@@ -1,0 +1,7 @@
+
+/* max width faz com que a imagem apenas pegue 100% do elemento pai (div) */
+img {
+    max-width: 100%;
+    display: block;
+}
+
